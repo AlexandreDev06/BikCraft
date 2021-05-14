@@ -11,4 +11,4 @@ Alunos:
           
 Endereço WEB: www.bikcraft.gq
 
-Hospedado na AWS com arquivos armazenados no serviço de bucket S3 + controle de DNS pelo serviço Route53, com DNS gerado pelo Freenom.
+Hospedado na AWS com arquivos armazenados no serviço de Bucket S3 + controle de DNS pelo serviço Route53, com domínio gerado pelo Freenom.
