@@ -10,4 +10,5 @@ Alunos:
           Lucas Galliani Hilário Alves  RA: 2220112641     
           
 Endereço WEB: www.bikcraft.gq
+
 Hospedado na AWS com arquivos armazenados no serviço de bucket S3 + controle de DNS pelo serviço Route53, com DNS gerado pelo Freenom.
